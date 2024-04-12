@@ -1,4 +1,4 @@
-# Predicting failures in Scania trucks using advanced machine learning techniques, (SMOTE, Random Forest, L1 penalized Logistic Regression) 
+# Predicting failures in Scania trucks using advanced machine learning techniques (SMOTE, Random Forest, L1 penalized Logistic Regression) 
 #### *Focusing on addressing data challenges and improving model accuracy through strategic adjustments and advanced modeling techniques
 <img width="423" alt="Screen Shot 2024-04-12 at 3 39 46 PM" src="https://github.com/niharikaabhange/APS-Failure-in-Trucks-SMOTE-Random-Forest-L1-Logistic-Regression-/assets/73836890/ac4170e2-7476-4e8d-9264-b3cc4e8acad0">
 
